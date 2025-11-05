@@ -20,7 +20,7 @@ Dictionary API (https://api.dictionaryapi.dev/)
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/NikitaSRane/dictionary.git
+[https://nikitasrane.github.io/dictionaryApi/]
 
 2️⃣ Navigate to the project directory
 cd dictionary
@@ -52,7 +52,7 @@ Antonyms
 
 📸 Screenshot
 
-![Dictionary App Screenshot](assets\DictionaryAppScreenshot.png)
+![Dictionary App Screenshot](assets/DictionaryAppScreenshot.png)
 
 🚀 Future Enhancements
 
@@ -66,6 +66,6 @@ Add speech-to-text for searching words
 
 Nikita Rane
 📧 [nikikubal@gmail.com]
-🔗 https://nikitasrane.github.io/dictionary/
+🔗 [https://nikitasrane.github.io/dictionaryApi/]
 
 🌐 https://github.com/nikitasrane
