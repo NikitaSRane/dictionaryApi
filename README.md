@@ -52,7 +52,7 @@ Antonyms
 
 📸 Screenshot
 
-![Dictionary App Screenshot](Dictionary\assets\DictionaryAppScreenshot.png)
+![Dictionary App Screenshot](assets\DictionaryAppScreenshot.png)
 
 🚀 Future Enhancements
 
